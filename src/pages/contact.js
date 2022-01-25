@@ -19,22 +19,8 @@ const ContactPage = ({
           <h1 className="post-title">Get in Touch</h1>
           <p>"let's get in touch" &rarr;</p>
         </div>
-            <p>
-            mail@rezgauche.be
-            <br>
-            +32 488 367 723
-            <br>
-            Theodore Verhaegenstraat 154, Brussels 1060, Belgium
-            <br>
-            administration
-            smartbe.be, Verenigde Producties vzw, activiteit nr. 06349
-            <br>
-            transdisciplinary art foundation, project rezgauche
-            <br>
-            V.A.T. BE 0896.755.397
-            <br>
-            opencollective.com/rezgauche
-            </p>
+            <p> "mail@rezgauche.be" &rarr;</p>
+             <p> "+32 488 367 723" &rarr;</p>
       </div>
     </Layout>
   )
