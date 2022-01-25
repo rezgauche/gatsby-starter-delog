@@ -6,6 +6,8 @@ export default (props) => (
   <nav className="navigation"> 
     <Link to="/about">about</Link>
     <Link to="/contact">contact</Link>
+    <Link to="/aboutt">aboutt</Link>
+
     <ThemeChanger/>
   </nav>
   
