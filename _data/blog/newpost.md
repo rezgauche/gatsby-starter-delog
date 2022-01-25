@@ -1,9 +1,9 @@
 ---
 template: BlogPost
-path: /remark-kitchen-sink
+path: /newpost
 date: 2022-02-21T12:12:25.364Z
-title: 'Hello World: The remark Kitchen Sink'
-thumbnail: https://arweave.net/dn6z-GqVMI3psbX_EM4SsyeMENyI_MCTcaweuP61pR0
+title: 'newpost'
+thumbnail: https://arweave.net/Ow0jKIyLlRPEf4-HgUE2jsWCaqL9uEs1gt2wWt71Zxo
 ---
 # h1 Heading 8-)
 
@@ -139,7 +139,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png) ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![Minion](https://octodex.github.com/images/minion.png) ![vr](https://arweave.net/Ow0jKIyLlRPEf4-HgUE2jsWCaqL9uEs1gt2wWt71Zxo "virtual futures")
 
 Like links, Images also have a footnote style syntax
 
