@@ -10,7 +10,7 @@ const notFound = () => {
         <title>about</title>
       </Helmet>
       <div style={{textAlign: "center", padding:"5vh 0", lineHeight: "1.5"}}>
-    <script src="https://opencollective.com/rezgauche/banner.js"></script>
+    
 
     
         <p> rezgauche.be is innovating, developing and practising inclusive structures that balance responsibility, resources and stakeholdership, with participation and decentralised forms of organisation.</p>
@@ -24,6 +24,8 @@ const notFound = () => {
       starting phase estimated annual location costs: 8646 €   
         development phase estimated total annual costs: 119 314 € </p>
       </div>
+<object type="image/svg+xml" data="https://opencollective.com/rezgauche/tiers/sponsor.svg?avatarHeight=36&width=600"></object>
+<script src="https://opencollective.com/rezgauche/banner.js"></script>
     </Layout>
   )
 }
