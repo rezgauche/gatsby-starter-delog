@@ -27,7 +27,6 @@ const IndexPage = ({
       <div className="grids">
         {Posts}
       </div>
-    </div>
     </Layout>
   )
 }
