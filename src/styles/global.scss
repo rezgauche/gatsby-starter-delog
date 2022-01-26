@@ -1,4 +1,4 @@
-$font-family: -Garamond,"Courier New",apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+$font-family: -Garamond,apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 
 html,
 body {
@@ -103,8 +103,8 @@ a {
 .site-title a {
   color: var(--primary-color);
   text-decoration: none;
-  font-weight: 900;
-  text-transform: uppercase;
+  font-weight: 700;
+  text-transform: lowercase;
 }
 .hero-header {
   padding: 0 0 64px;
@@ -116,11 +116,11 @@ a {
   margin-bottom: 0.5rem;
 }
 .button {
-  padding: 18px 27px;
+  padding: 8px 12px;
   display: inline-block;
   background: var(--btn-bg);
   border: 1px solid var(--btn-bdr);
-  border-radius: 9px;
+  border-radius: 4px;
   text-decoration: none;
   color: var(--btn-text-color);
   font-size: 16px;
@@ -143,7 +143,7 @@ a {
   }
 }
 .primary-content {
-  font-size: 18px;
+  font-size: 15px;
   margin-bottom: 32px;
   line-height: 1.5;
   font-weight: 300;
@@ -217,7 +217,7 @@ a {
 .card {
   display: grid;
   background-color: var(--card-bg);
-  border-radius: 9px;
+  border-radius: 5px;
   border: 1px solid var(--card-bdr);
   box-shadow: 0 0 30px var(--card-shadow);
   overflow: hidden;
