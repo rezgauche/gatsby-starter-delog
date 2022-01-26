@@ -23,10 +23,12 @@ const IndexPage = ({
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader/>
-      <h2> &darr;</h2>
+    <div className="post-thumbnail" style={{backgroundImage: `url('https://arweave.net/zauC5kVoyKPmNht98futZBhHroTSq0eG_ucsYv9RX0M')`, marginBottom: 0}}>
+      <h5>artworks</h5>
       <div className="grids">
         {Posts}
       </div>
+    </div>
     </Layout>
   )
 }
