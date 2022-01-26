@@ -10,6 +10,8 @@ const notFound = () => {
         <title>about</title>
       </Helmet>
       <div style={{textAlign: "center", padding:"5vh 0", lineHeight: "1.5"}}>
+    <script src="https://opencollective.com/rezgauche/banner.js"></script>
+
     
         <p> rezgauche.be is innovating, developing and practising inclusive structures that balance responsibility, resources and stakeholdership, with participation and decentralised forms of organisation.</p>
         <p> Our gallery/atelier location is at Rue Theodore Verhaegen 154, Brussels, Belgium. The multi-purpose gallery/atelier is open for performance art, dance, artistic research, visual art, theatre, design, music production, audiovisual production and other forms of presenting and gathering around artistic practice.</p>
