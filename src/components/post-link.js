@@ -9,11 +9,11 @@ const PostLink = ({ post }) => (
       )}
     </Link>
     <header>
-      <p className="post-title">
+      <h8 className="post-title">
         <Link to={post.frontmatter.path} className="post-link">
           {post.frontmatter.title}
         </Link>
-      </p>
+      </h8>
     </header>
   </article>
 )
