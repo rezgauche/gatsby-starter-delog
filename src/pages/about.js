@@ -24,8 +24,7 @@ const notFound = () => {
       starting phase estimated annual location costs: 8646 €   
         development phase estimated total annual costs: 119 314 € </p>
       </div>
-<object type="image/svg+xml" data="https://opencollective.com/rezgauche/tiers/sponsor.svg?avatarHeight=36&width=600"></object>
-<script src="https://opencollective.com/rezgauche/banner.js"></script>
+<object type="image/svg+xml" data="https://opencollective.com/rezgauche/tiers/sponsor.svg?avatarHeight=360&width=600"></object>
     </Layout>
   )
 }
